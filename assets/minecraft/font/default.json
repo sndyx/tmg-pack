@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "addon:font/space.png",
+            "height": -3,
+            "ascent": -32768,
+            "chars": [
+                "\uE000"
+            ]
+        }
+    ]
+}

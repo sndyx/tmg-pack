@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "addon:block/cirno_fumo" },
+        { "predicate": { "custom_model_data": 2 }, "model": "addon:block/mokou_fumo" },
+        { "predicate": { "custom_model_data": 3 }, "model": "addon:block/seal_statue" },
+        { "predicate": { "custom_model_data": 4 }, "model": "addon:block/seal" }
+    ]
+}
