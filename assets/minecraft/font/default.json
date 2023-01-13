@@ -2,11 +2,92 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "addon:font/space.png",
-            "height": -3,
-            "ascent": -32768,
+            "file": "addon:font/vip.png",
+            "height": 8,
+            "ascent": 7,
             "chars": [
-                "\uE000"
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/baby_seal.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/fancy_seal.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/mega_seal.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/booster.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/winner.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/famous.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/mod.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/admin.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "addon:font/owner.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\uE109"
             ]
         }
     ]
