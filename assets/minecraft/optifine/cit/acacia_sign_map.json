@@ -1,0 +1,7 @@
+{
+	"parent": "./template_sign_normal",
+	"textures": {
+		"sign": "./acacia_sign_base",
+		"text": "./acacia_sign_text_map"
+	}
+}

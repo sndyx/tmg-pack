@@ -1,0 +1,6 @@
+{
+	"parent": "./template_lantern_3",
+	"textures": {
+		"led": "./lantern_1b"
+	}
+}

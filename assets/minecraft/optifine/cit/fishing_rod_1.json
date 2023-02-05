@@ -1,0 +1,13 @@
+{
+    "parent": "./cit_item_tool",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+	"display": {
+		"fixed": {
+			"rotation": [90, 0, 180],
+			"translation": [0, 0, -12],
+			"scale": [2, 2, 2]
+		}
+    }
+}

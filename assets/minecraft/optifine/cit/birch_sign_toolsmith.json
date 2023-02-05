@@ -1,0 +1,7 @@
+{
+	"parent": "./template_sign_normal",
+	"textures": {
+		"sign": "./birch_sign_base",
+		"text": "./birch_sign_text_toolsmith"
+	}
+}

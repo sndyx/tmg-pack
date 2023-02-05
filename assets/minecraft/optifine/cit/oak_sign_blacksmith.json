@@ -1,0 +1,7 @@
+{
+	"parent": "./template_sign_long",
+	"textures": {
+		"sign": "./oak_sign_base",
+		"text": "./oak_sign_text_blacksmith"
+	}
+}

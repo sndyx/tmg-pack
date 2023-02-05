@@ -1,0 +1,7 @@
+{
+	"parent": "./template_sign_normal",
+	"textures": {
+		"sign": "./spruce_sign_base",
+		"text": "./spruce_sign_text_fisherman"
+	}
+}
