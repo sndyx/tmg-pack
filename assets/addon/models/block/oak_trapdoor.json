@@ -1,0 +1,6 @@
+{
+  "parent": "addon:block/template_trapdoor",
+  "textures": {
+    "trapdoor": "addon:block/oak_trapdoor"
+  }
+}

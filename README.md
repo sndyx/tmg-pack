@@ -1,7 +1,4 @@
-# JustRPG Resource Pack
-
-Resource pack hub for JustRPG. Changes made to the repository are automatically
- updated on the server.
+# TMG SMP Resource Pack
 
 ## Contributing
 

@@ -1,0 +1,6 @@
+{
+  "parent": "addon:block/template_leaning_bowl",
+  "textures": {
+    "plate": "addon:block/bowl_5"
+  }
+}
